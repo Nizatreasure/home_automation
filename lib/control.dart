@@ -205,8 +205,8 @@ class _ControlState extends State<Control> {
                       child: SfRadialGauge(
                         axes: <RadialAxis>[
                           RadialAxis(
-                            minimum: -90,
-                            maximum: 90,
+                            minimum: 0,
+                            maximum: 180,
                             startAngle: 130,
                             endAngle: 50,
                             backgroundImage:
@@ -266,8 +266,8 @@ class _ControlState extends State<Control> {
                       child: SfRadialGauge(
                         axes: <RadialAxis>[
                           RadialAxis(
-                            minimum: -90,
-                            maximum: 90,
+                            minimum: 0,
+                            maximum: 180,
                             startAngle: 130,
                             endAngle: 50,
                             backgroundImage:
