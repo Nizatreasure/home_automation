@@ -121,7 +121,7 @@ class _ControlState extends State<Control> {
           'Control',
           style: TextStyle(color: Colors.black, fontSize: 20),
         ),
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.transparent,
         elevation: 0, 
       ),
       body: SafeArea(
