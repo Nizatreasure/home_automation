@@ -122,7 +122,7 @@ class _ControlState extends State<Control> {
           style: TextStyle(color: Colors.black, fontSize: 20),
         ),
         backgroundColor: Colors.transparent,
-        elevation: 0, 
+        elevation: 0,
       ),
       body: SafeArea(
         child: Padding(
@@ -192,7 +192,7 @@ class _ControlState extends State<Control> {
               Row(
                 children: [
                   Text(
-                    'Motor 1',
+                    'Motor 2',
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 18,
