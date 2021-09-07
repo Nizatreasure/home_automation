@@ -192,7 +192,7 @@ class _ControlState extends State<Control> {
               Row(
                 children: [
                   Text(
-                    'Motor 2',
+                    'Motor 1',
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 18,
