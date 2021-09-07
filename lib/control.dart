@@ -126,7 +126,7 @@ class _ControlState extends State<Control> {
       ),
       body: SafeArea(
         child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 30),
+          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 3),
           child: ListView(
             children: [
               Row(
